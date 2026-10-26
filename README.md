@@ -59,5 +59,5 @@ Manojkumar
 
 Aspiring Data Analyst | Excel | Data Visualization
 
-- GitHub: [Your GitHub Profile](https://github.com/)
+- GitHub: https://github.com/manojkumar921721-bit
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
